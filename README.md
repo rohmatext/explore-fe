@@ -1,5 +1,44 @@
-# Vue 3 + TypeScript + Vite
+# 🛠️ Instalasi
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Langkah-langkah instalasi dimulai **dari clone repository** hingga menjalankan aplikasi.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+Panduan untuk menginstal dan menjalankan proyek ini menggunakan **Bun**.
+
+## 1. Clone Repository
+
+```bash
+git clone https://github.com/username/nama-proyek.git
+cd nama-proyek
+```
+
+## 2. Install Dependencies
+
+```bash
+bun install
+```
+
+## 3. Konfigurasi Environment
+
+Buat file **.env**:
+
+```bash
+cp .env.example .env
+```
+
+Isi nilai konfigurasi:
+
+```
+VITE_BACKEND_URL=http://localhost:3000 // sesuai backend url
+```
+
+## 5. Menjalankan Development Server
+
+```bash
+bun run dev
+```
+
+Aplikasi dapat dibuka melalui:
+
+```
+http://localhost:5173
+```
