@@ -1,4 +1,9 @@
-# 🛠️ Instalasi
+# Teknologi yang Digunakan
+- Bun
+- TypeScript
+- Vue.Js
+
+# Instalasi
 
 Langkah-langkah instalasi dimulai **dari clone repository** hingga menjalankan aplikasi.
 
