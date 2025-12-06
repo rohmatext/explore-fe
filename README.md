@@ -7,7 +7,7 @@ Panduan untuk menginstal dan menjalankan proyek ini menggunakan **Bun**.
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/nama-proyek.git
+git clone https://github.com/rohmatext/explore-fe.git
 cd nama-proyek
 ```
 
